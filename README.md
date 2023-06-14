@@ -10,6 +10,9 @@
 </div>   
 
 ## 「AI 知识库」 永久免费更新
+
+### ‼️最新更新地址：https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d
+
 目前知识库包括以下内容大纲，覆盖内容如下
 
 一、🎖️  ChatGPT 系列 
@@ -26,7 +29,7 @@
 
 七、🎟️ 交流社群 
 
-地址：https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d
+
 
 
 ## 交流共享
